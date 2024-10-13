@@ -1,4 +1,4 @@
-# Design-Pattens
+# Design-Patterns
 
 A design pattern is a generic repeatable solution to a frequently occurring problem in software design that is used in software engineering. It isn’t a complete design that can be written in code right away. It is a description or model for problem-solving that may be applied in a variety of contexts.
 
